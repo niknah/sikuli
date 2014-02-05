@@ -22,6 +22,10 @@ vncscreenid=JScreen.connectVNC(["vncviewer","-encodings","tight","-quality","5",
 ```
 
 
+Compiled linux .jar is available here...
+https://app.box.com/s/7k40nfkdo34iquj6lsjh
+
+
 A new version is available per May 22nd 2013 
 =====
 
